@@ -1,5 +1,36 @@
 # OpenSim-Skin-Attachment
 base on Pose2Sim
+ cite Pagnon et al., 2022b, Pagnon et al., 2022a, or Pagnon et al., 2021.
+ @Article{Pagnon_2022_JOSS, 
+  AUTHOR = {Pagnon, David and Domalain, Mathieu and Reveret, Lionel}, 
+  TITLE = {Pose2Sim: An open-source Python package for multiview markerless kinematics}, 
+  JOURNAL = {Journal of Open Source Software}, 
+  YEAR = {2022},
+  DOI = {10.21105/joss.04362}, 
+  URL = {https://joss.theoj.org/papers/10.21105/joss.04362}
+ }
+
+@Article{Pagnon_2022_Accuracy,
+  AUTHOR = {Pagnon, David and Domalain, Mathieu and Reveret, Lionel},
+  TITLE = {Pose2Sim: An End-to-End Workflow for 3D Markerless Sports Kinematics—Part 2: Accuracy},
+  JOURNAL = {Sensors},
+  YEAR = {2022},
+  DOI = {10.3390/s22072712},
+  URL = {https://www.mdpi.com/1424-8220/22/7/2712}
+}
+
+@Article{Pagnon_2021_Robustness,
+  AUTHOR = {Pagnon, David and Domalain, Mathieu and Reveret, Lionel},
+  TITLE = {Pose2Sim: An End-to-End Workflow for 3D Markerless Sports Kinematics—Part 1: Robustness},
+  JOURNAL = {Sensors},
+  YEAR = {2021},
+  DOI = {10.3390/s21196530},
+  URL = {https://www.mdpi.com/1424-8220/21/19/6530}
+}
+ 
+
+The provided main file is a skin model in STL format.
+给出的main文件为.stl格式的皮肤模型
 
 
 1. Introduction
