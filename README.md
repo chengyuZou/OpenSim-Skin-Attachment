@@ -1,6 +1,6 @@
 # OpenSim-Skin-Attachment
 base on Pose2Sim
- cite Pagnon et al., 2022b, Pagnon et al., 2022a, or Pagnon et al., 2021.
+ cite Pagnon et al., 2022b, Pagnon et al., 2022a, and Pagnon et al., 2021.
  @Article{Pagnon_2022_JOSS, 
   AUTHOR = {Pagnon, David and Domalain, Mathieu and Reveret, Lionel}, 
   TITLE = {Pose2Sim: An open-source Python package for multiview markerless kinematics}, 
@@ -31,6 +31,9 @@ base on Pose2Sim
 
 The provided main file is a skin model in STL format.
 给出的main文件为.stl格式的皮肤模型
+
+Any <Body> tag containing the name "skin" must have its <mesh_file> modified; otherwise, it will cause errors or prevent the skin model from displaying properly.
+凡是在<Body>标签中有"skin"名字的都要改它的<mesh_file>不然报错或者皮肤模型不显示
 
 
 1. Introduction
