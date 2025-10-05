@@ -3,8 +3,10 @@
 
 # OpenSim-Skin-Attachment
 
-now(unfinished)
-![OpenSim 4 5 2025_3_23 22_32_55](https://github.com/user-attachments/assets/eeefac02-0446-45c3-962a-0388f0c68571)
+now(unfinished)<img width="1920" height="1009" alt="OpenSim 4 5 2025_10_5 22_52_21" src="https://github.com/user-attachments/assets/811c9bb5-efdf-40fa-9327-83acefcb8af4" />
+
+
+https://github.com/user-attachments/assets/2fcc6a00-b28e-44d2-bcc1-1aa0f9a04f7a
 
 ```python
 @Article{Pagnon_2022_JOSS, 
