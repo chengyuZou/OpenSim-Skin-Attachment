@@ -1,3 +1,5 @@
+**[中文版](https://github.com/chengyuZou/OpenSim-Skin-Attachment/blob/main/README-zh.md)**
+
 # OpenSim-Skin-Attachment
 
 now(unfinished)
