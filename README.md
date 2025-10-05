@@ -1,4 +1,5 @@
 **[中文版](https://github.com/chengyuZou/OpenSim-Skin-Attachment/blob/main/README-zh.md)**
+**[请移动至最新版](https://github.com/chengyuZou/OpenSim-Skin-Attachment/tree/main/new)**
 
 # OpenSim-Skin-Attachment
 
